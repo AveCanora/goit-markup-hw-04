@@ -303,7 +303,8 @@ img{
     font-size: 16px;
     line-height: 1.188;
     letter-spacing: 0.03em;
-    color: var(--h-color)
+    color: var(--h-color);
+    padding-top: 20px;
 }
 .p-position {
     font-style: normal;
@@ -490,6 +491,7 @@ img{
     
     box-shadow: 0px 2px 4px 0px var(--gray);
     background-color: white;
+    height: 428px;
 }
 
 .site-nav .link {
